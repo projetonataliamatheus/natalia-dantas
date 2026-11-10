@@ -1,0 +1,8 @@
+Site "natalia dantas" pronto para publicar.
+
+1) Crie um repositório no GitHub com o nome do cliente e envie estes arquivos.
+2) Na Vercel: Add New > Project > escolha o repositório. Framework: Other. Não precisa de build.
+3) Em Settings > Domains, adicione o domínio do cliente e aponte o DNS como a Vercel pedir.
+
+index.html = site completo (textos, imagens e efeitos já aplicados).
+content.json = textos e imagens, para consultar ou refazer a edição.

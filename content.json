@@ -1,0 +1,546 @@
+{
+  "faq": {
+    "items": [
+      {
+        "id": "faq-1",
+        "answer": "Recomendamos iniciar con una pauta mínima de entre 300€ y 600€ mensuales en anuncios para obtener datos estadísticos rápidos en Meta o Google. Tú pagas la inversión publicitaria directamente a la plataforma desde tu tarjeta.",
+        "question": "¿Cuánto debo invertir en anuncios además de la mensualidad de la agencia?"
+      },
+      {
+        "id": "faq-2",
+        "answer": "Las campañas de tráfico de pago comienzan a generar los primeros contactos entre el día 5 y el día 14 desde el lanzamiento. Entre los 30 y 60 días consolidamos la optimización para escalar el retorno reduciendo el costo por cliente.",
+        "question": "¿En cuánto tiempo empezaré a notar resultados y mensajes de clientes?"
+      },
+      {
+        "id": "faq-3",
+        "answer": "No trabajamos con cláusulas de permanencia abusivas. En nuestros planes Impulso y Escala solo pedimos un aviso previo de 15 días naturales si decides pausar el servicio.",
+        "question": "¿Tengo que firmar contrato de permanencia anual?"
+      },
+      {
+        "id": "faq-4",
+        "answer": "Nosotros redactamos todos los guiones exactos, hooks y pautas de encuadre. Solo necesitas dedicarnos 45 minutos al mes frente a tu móvil; nuestro equipo realiza la edición profesional, subtítulos y portada.",
+        "question": "¿Quién graba los vídeos si contrato gestión de Social Media?"
+      },
+      {
+        "id": "faq-5",
+        "answer": "Trabajamos de manera 100% online con clientes en toda España (Madrid, Barcelona, Valencia, Sevilla), Estados Unidos (mercado latino) y Latinoamérica (México, Colombia, Chile y Argentina).",
+        "question": "¿Trabajan únicamente en Madrid o con cualquier país hispanohablante?"
+      }
+    ],
+    "eyebrow": "PREGUNTAS FRECUENTES",
+    "headline": "RESOLVEMOS TUS DUDAS ANTES DE EMPEZAR",
+    "subheadline": "Todo lo que nuestros clientes pymes consultan antes de delegar su crecimiento."
+  },
+  "map": {
+    "hubLabel": "Oficina Central · Salamanca",
+    "resetLabel": "Centrar mapa",
+    "zoomInLabel": "Acercar mapa",
+    "addressLines": [
+      "Calle de Velázquez, 54",
+      "28001 Madrid · Atención Online"
+    ],
+    "zoomOutLabel": "Alejar mapa",
+    "directionsUrl": "https://maps.google.com/?q=Calle+de+Velazquez+54+Madrid",
+    "districtLabel": "SALAMANCA",
+    "station1Label": "Metro Velázquez (2 min)",
+    "station2Label": "Metro Núñez de Balboa (4 min)",
+    "station3Label": "Metro Retiro (6 min)",
+    "directionsLabel": "Abrir en Maps"
+  },
+  "nav": {
+    "links": [
+      {
+        "id": "nav-services",
+        "href": "#servicios",
+        "label": "Servicios",
+        "sectionKey": "services"
+      },
+      {
+        "id": "nav-cases",
+        "href": "#casos",
+        "label": "Casos",
+        "sectionKey": "atelierCases"
+      },
+      {
+        "id": "nav-pricing",
+        "href": "#planes",
+        "label": "Planes",
+        "sectionKey": "pricing"
+      },
+      {
+        "id": "nav-testimonials",
+        "href": "#testimonios",
+        "label": "Testimonios",
+        "sectionKey": "testimonials"
+      },
+      {
+        "id": "nav-faq",
+        "href": "#faq",
+        "label": "FAQ",
+        "sectionKey": "faq"
+      }
+    ],
+    "menuOpenLabel": "Abrir menú de navegación",
+    "ctaButtonLabel": "Consultoría WhatsApp",
+    "menuCloseLabel": "Cerrar menú de navegación",
+    "mobileMenuTagline": "Estrategia digital real para pequeñas y medianas empresas."
+  },
+  "hero": {
+    "image": "https://images.pexels.com/photos/6476256/pexels-photo-6476256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "eyebrow": "ESPAÑA Y LATAM · ESPECIALISTAS EN PYMES",
+    "ctaLabel": "AGENDAR CONSULTORÍA GRATIS",
+    "imageAlt": "Equipo de marketing digital analizando métricas y campañas de crecimiento en estudio moderno",
+    "subheadline": "Ayudamos a pequeñas y medianas empresas a multiplicar sus ventas cada mes mediante campañas de Meta & Google Ads optimizadas al retorno y gestión profesional de Social Media.",
+    "headlineLine1": "TRÁFICO QUE CONVIERTE.",
+    "headlineLine2": "MARCAS QUE VENDEN.",
+    "ctaWhatsappMessage": "¡Hola Natalia! Quiero agendar mi consultoría estratégica gratuita para evaluar mi tráfico de pago y redes sociales.",
+    "secondaryNoteLabel": "RESPUESTA RÁPIDA",
+    "secondaryNoteValue": "HOY EN MENOS DE 2H"
+  },
+  "brand": {
+    "city": "Madrid",
+    "name": "Natalia Dantas Marketing Digital",
+    "tagline": "Escalamos las ventas de tu pyme con tráfico de pago y contenido estratégico.",
+    "shortName": "Natalia Dantas",
+    "foundedYear": "2019",
+    "serviceArea": "España y Latinoamérica (100% remoto)",
+    "watermarkText": "Natalia Dantas"
+  },
+  "story": {
+    "eyebrow": "NUESTRA FILOSOFÍA",
+    "paragraph1": "En Natalia Dantas Marketing Digital sabemos que una pyme no puede permitirse campañas basadas en intuición ni métricas de vanidad. Combinamos compra de medios orientada a rentabilidad directa con contenido audiovisual diseñado para detener el scroll.",
+    "paragraph2": "Trabajamos codo a codo con dueños de negocio, clínicas, e-commerce y marcas de servicios en España y Latinoamérica, transformando redes sociales pasivas en canales predecibles de facturación diaria.",
+    "headlineLine1": "CADA EURO INVERTIDO",
+    "headlineLine2": "DEBE VOLVER EN CLIENTES"
+  },
+  "footer": {
+    "eyebrow": "AGENDA TU DIAGNÓSTICO HOY",
+    "headline": "ENCUÉNTRANOS EN MADRID O CONECTA ONLINE",
+    "termsLabel": "TÉRMINOS",
+    "emailHeading": "Correo Directo\n",
+    "hoursHeading": "Horario de Atención",
+    "phoneHeading": "Teléfono y WhatsApp",
+    "privacyLabel": "PRIVACIDAD",
+    "termsSummary": "Planes mensuales sin permanencia · Facturación oficial España/UE.",
+    "copyrightText": "© 2026 NATALIA DANTAS MARKETING DIGITAL — TODOS LOS DERECHOS RESERVADOS",
+    "followHeading": "Comunidad",
+    "privacySummary": "Cumplimiento RGPD/LOPD España · Atención confidencial de métricas."
+  },
+  "contact": {
+    "email": "hola@nataliadantas.es",
+    "whatsapp": "34611482930",
+    "hoursLabel": "Horario de Atención",
+    "hoursValue": "Lun a Vie · 09:00 – 19:00 (CET)",
+    "addressLine1": "Calle de Velázquez, 54, Planta 3",
+    "addressLine2": "28001 Salamanca, Madrid",
+    "instagramUrl": "https://instagram.com",
+    "phoneDisplay": "19 982673263",
+    "instagramHandle": "@nataliadantas.mkt",
+    "defaultWhatsappMessage": "¡Hola Natalia! Visité tu web y quiero agendar una consultoría estratégica para escalar las ventas de mi negocio."
+  },
+  "pricing": {
+    "plans": [
+      {
+        "id": "plan-impulso",
+        "name": "Plan Impulso Ads",
+        "price": "590€",
+        "ctaText": "Elegir Plan Impulso",
+        "tagline": "Ideal para negocios locales y servicios que buscan clientes diarios.",
+        "featured": false,
+        "features": [
+          "Gestión profesional en Meta Ads o Google Ads (1 plataforma)",
+          "Hasta 4 campañas activas con pruebas A/B semanales",
+          "Edición de hasta 6 creativos gráficos/vídeo para pauta",
+          "Configuración de Pixel, API de Conversiones y Google Analytics",
+          "Panel de métricas 24/7 + informe quincenal en vídeo"
+        ],
+        "billingCycle": "/ mes + impuestos",
+        "whatsappMessage": "¡Hola Natalia! Quiero contratar el Plan Impulso Ads (590€/mes) y agendar una llamada inicial.",
+        "installmentsNote": "O 3 cuotas de 196€/mes · Sin permanencia"
+      },
+      {
+        "id": "plan-escala",
+        "name": "Plan Escala 360°",
+        "badge": "MÁS POPULAR",
+        "price": "980€",
+        "ctaText": "Agendar con Plan Escala",
+        "tagline": "Nuestro programa estrella: Tráfico de Pago + Gestión de Social Media.",
+        "featured": true,
+        "features": [
+          "Gestión simultánea de Meta Ads + Google Ads (multicanal)",
+          "12 piezas mensuales de Instagram (Reels editados + carruseles)",
+          "Calendario editorial mensual y redacción persuasiva completa",
+          "Guionización personalizada y sesión de dirección para grabación",
+          "Reunión estratégica quincenal en directo con tu equipo"
+        ],
+        "billingCycle": "/ mes + impuestos",
+        "whatsappMessage": "¡Hola Natalia! Estoy interesado en el Plan Escala 360° (980€/mes) para combinar tráfico y redes sociales.",
+        "installmentsNote": "Fraccionable 50% inicio / 50% día 15"
+      },
+      {
+        "id": "plan-growth",
+        "name": "Partner Full Growth",
+        "price": "1.650€",
+        "ctaText": "Solicitar Plan Partner",
+        "tagline": "Acompañamiento integral para e-commerce y empresas en expansión.",
+        "featured": false,
+        "features": [
+          "Omni-canalidad: Meta Ads, Google Shopping/Search y TikTok Ads",
+          "20 contenidos mensuales + optimización continua de Landing Page",
+          "Automatización básica de seguimiento para leads en WhatsApp/CRM",
+          "Soporte prioritario diario vía grupo privado de WhatsApp",
+          "Auditoría comercial semanal con el equipo de ventas"
+        ],
+        "billingCycle": "/ mes + impuestos",
+        "whatsappMessage": "¡Hola Natalia! Me interesa aplicar al programa Partner Full Growth (1.650€/mes) para mi empresa.",
+        "installmentsNote": "Contrato trimestral con prioridad VIP"
+      }
+    ],
+    "eyebrow": "INVERSIÓN TRANSPARENTE",
+    "headline": "PLANES ADAPTADOS A TU ETAPA DE CRECIMIENTO",
+    "noteBottom": "* Posibilidad de fraccionamiento en 2 pagos mensuales para proyectos trimestrales y facturación oficial con IVA en España/Europa.",
+    "subheadline": "Tarifas mensuales claras. No incluyen inversión directa en anuncios (gestionada directamente desde tu cuenta publicitaria)."
+  },
+  "benefits": {
+    "items": [
+      {
+        "id": "b1",
+        "title": "Enfoque 100% en Rentabilidad",
+        "number": "01",
+        "description": "Medimos leads cualificados, costo por adquisición y retorno en caja; nunca justificamos el gasto con simples 'me gusta'."
+      },
+      {
+        "id": "b2",
+        "title": "Sin Permanencias Atadas",
+        "number": "02",
+        "description": "Creemos en ganarnos tu renovación cada mes mediante resultados tangibles y comunicación directa con tu estratega asignado."
+      },
+      {
+        "id": "b3",
+        "title": "Creativos que Frenan el Scroll",
+        "number": "03",
+        "description": "Combinamos análisis de datos con dirección audiovisual para producir anuncios que generan confianza en menos de tres segundos."
+      },
+      {
+        "id": "b4",
+        "title": "Reportes Claros en Tiempo Real",
+        "number": "04",
+        "description": "Acceso 24/7 a tu panel personalizado más llamada quincenal para decidir juntos dónde escalar el presupuesto ganador."
+      }
+    ],
+    "eyebrow": "POR QUÉ ELEGIRNOS",
+    "headline": "METODOLOGÍA DISEÑADA PARA CRECIMIENTO PREDECIBLE"
+  },
+  "sections": {
+    "faq": true,
+    "hero": true,
+    "story": true,
+    "pricing": true,
+    "benefits": true,
+    "services": true,
+    "ctaBanner": true,
+    "instagram": true,
+    "socialProof": true,
+    "atelierCases": true,
+    "testimonials": true,
+    "contactFooter": true
+  },
+  "services": {
+    "items": [
+      {
+        "id": "meta-ads",
+        "name": "META ADS DE ALTA CONVERSIÓN",
+        "badge": "Más solicitado",
+        "image": "https://images.pexels.com/photos/6801649/pexels-photo-6801649.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "category": "TRAFICO",
+        "imageAlt": "Especialista revisando pauta publicitaria y documentos de campaña",
+        "subGroup": "principales",
+        "description": "Campañas diarias en Instagram y Facebook estructuradas por fases de embudo para captar leads cualificados por WhatsApp o ventas directas en tu tienda.",
+        "deliverableNote": "INCLUYE PRUEBAS A/B DE CREATIVOS Y REMARKETING",
+        "whatsappMessage": "¡Hola Natalia! Me interesa el servicio de Meta Ads de Alta Conversión para escalar mis ventas."
+      },
+      {
+        "id": "google-ads",
+        "name": "GOOGLE ADS (SEARCH & SHOPPING)",
+        "image": "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "category": "TRAFICO",
+        "imageAlt": "Monitor con tablero de Google Analytics y pauta de búsqueda",
+        "subGroup": "principales",
+        "description": "Captura a tus clientes exactamente en el segundo en que buscan tu producto o servicio en Google con palabras clave de alta intención de compra.",
+        "deliverableNote": "CONFIGURACIÓN DE CONVERSIONES GA4 + TAG MANAGER",
+        "whatsappMessage": "¡Hola! Quiero captar clientes que ya están buscando mis servicios en Google Ads."
+      },
+      {
+        "id": "tiktok-ads",
+        "name": "TIKTOK ADS & VIDEO SHOPPING",
+        "badge": "Tendencia",
+        "image": "https://images.pexels.com/photos/13929796/pexels-photo-13929796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "category": "TRAFICO",
+        "imageAlt": "Creador sosteniendo smartphone grabando anuncio nativo",
+        "subGroup": "especializados",
+        "description": "Escala tu alcance con anuncios nativos tipo UGC y formatos verticales de altísimo retorno y CPM reducido para marcas jóvenes y e-commerce.",
+        "deliverableNote": "GUIONES DE GANCHO EN LOS PRIMEROS 3 SEGUNDOS",
+        "whatsappMessage": "¡Hola! Quiero lanzar campañas rentables en TikTok Ads para mi marca."
+      },
+      {
+        "id": "local-ads",
+        "name": "TRÁFICO LOCAL PARA NEGOCIOS FÍSICOS",
+        "image": "https://images.pexels.com/photos/7693142/pexels-photo-7693142.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "category": "TRAFICO",
+        "imageAlt": "Laptops con análisis de crecimiento para negocios locales",
+        "subGroup": "especializados",
+        "description": "Segmentación por código postal y radio de kilómetros para llenar consultas, clínicas, salones, restaurantes y despachos locales.",
+        "deliverableNote": "INTEGRACIÓN CON GOOGLE MAPS Y RESERVAS WHATSAPP",
+        "whatsappMessage": "¡Hola! Tengo un negocio físico local y necesito atraer más clientes presenciales."
+      },
+      {
+        "id": "social-full",
+        "name": "GESTIÓN ESTRATÉGICA DE INSTAGRAM & REELS",
+        "badge": "Preferido por pymes",
+        "image": "https://images.pexels.com/photos/12199411/pexels-photo-12199411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "category": "SOCIAL",
+        "imageAlt": "Estación de producción móvil con aro de luz para Instagram Reels",
+        "subGroup": "principales",
+        "description": "Calendario editorial enfocado en venta, guionización completa de Reels, carruseles persuasivos y dirección visual coherente con tu marca.",
+        "deliverableNote": "EDICIÓN PROFESIONAL + COPYWRITING DE CONVERSIÓN",
+        "whatsappMessage": "¡Hola Natalia! Necesito delegar la gestión estratégica y Reels de mi Instagram."
+      },
+      {
+        "id": "linkedin-b2b",
+        "name": "POSICIONAMIENTO B2B & SOCIAL SELLING",
+        "image": "https://images.pexels.com/photos/15543042/pexels-photo-15543042.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "category": "SOCIAL",
+        "imageAlt": "Reunión directiva definiendo estrategia de contenido B2B",
+        "subGroup": "principales",
+        "description": "Convierte el perfil directivo de tu pyme en un imán de alianzas y contratos B2B en LinkedIn con contenido de autoridad sectorial.",
+        "deliverableNote": "SECUNDADO CON PROSPECCIÓN ORGÁNICA DIRIGIDA",
+        "whatsappMessage": "¡Hola! Queremos potenciar nuestras ventas B2B y posicionamiento en LinkedIn."
+      },
+      {
+        "id": "video-editing",
+        "name": "EDICIÓN DINÁMICA Y DIRECCIÓN CREATIVA",
+        "image": "https://images.pexels.com/photos/30229850/pexels-photo-30229850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "category": "SOCIAL",
+        "imageAlt": "Mesa profesional de edición de vídeo y corrección de color",
+        "subGroup": "especializados",
+        "description": "Tú grabas en 45 minutos al mes con nuestra guía paso a paso y nuestro equipo edita piezas con ritmo, subtítulos dinámicos y color.",
+        "deliverableNote": "ENTREGA EN PACKS MENSUALES DE 12 A 20 PIEZAS",
+        "whatsappMessage": "¡Hola! Me interesa el servicio de guionización y edición de vídeos cortos."
+      },
+      {
+        "id": "brand-kit",
+        "name": "IDENTIDAD VISUAL Y REDES PREMIUM",
+        "image": "https://images.pexels.com/photos/15555796/pexels-photo-15555796.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "category": "SOCIAL",
+        "imageAlt": "Monitor doble mostrando diseño de identidad visual para redes sociales",
+        "subGroup": "especializados",
+        "description": "Transformamos tu perfil en 15 días para transmitir autoridad inmediata antes de lanzar un solo anuncio de tráfico pagado.",
+        "deliverableNote": "PLANTILLAS EDITABLES + GUÍA DE VOZ DE MARCA",
+        "whatsappMessage": "¡Hola! Quiero profesionalizar la imagen visual de mis redes sociales antes de anunciar."
+      },
+      {
+        "id": "landing-cro",
+        "name": "LANDING PAGES DE ALTA CONVERSIÓN",
+        "badge": "Clave en pauta",
+        "image": "https://images.pexels.com/photos/8437056/pexels-photo-8437056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "category": "ESTRATEGIA",
+        "imageAlt": "Consultora revisando tasas de conversión en ordenador portátil",
+        "subGroup": "principales",
+        "description": "Diseñamos páginas de aterrizaje veloces con estructura persuasiva directa hacia WhatsApp o reserva automática de citas.",
+        "deliverableNote": "OPTIMIZADAS PARA MÓVIL Y MEDICIÓN DE EVENTOS",
+        "whatsappMessage": "¡Hola! Necesito una Landing Page optimizada para recibir el tráfico de mis anuncios."
+      },
+      {
+        "id": "audit-mentoring",
+        "name": "AUDITORÍA 360° Y MENTORÍA EXPRESS",
+        "image": "https://images.pexels.com/photos/6914434/pexels-photo-6914434.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "category": "ESTRATEGIA",
+        "imageAlt": "Sesión de auditoría estratégica presentada al equipo cliente",
+        "subGroup": "especializados",
+        "description": "Sesión intensiva de diagnóstico sobre tus cuentas publicitarias y perfil para detectar fugas de dinero y trazar tu hoja de ruta trimestral.",
+        "deliverableNote": "GRABACIÓN COMPLETA + PLAN DE ACCIÓN EN PDF",
+        "whatsappMessage": "¡Hola! Quiero solicitar una Auditoría 360° de mis campañas actuales."
+      }
+    ],
+    "eyebrow": "PORTAFOLIO DE SOLUCIONES",
+    "headline": "SERVICIOS QUE ESCALAN",
+    "sideNote": "Cada servicio se adapta al momento real de tu empresa: desde construir autoridad visual hasta detonar ventas diarias con publicidad de pago.",
+    "cardCtaLabel": "Consultar este servicio",
+    "tabSocialLabel": "SOCIAL MEDIA",
+    "tabTrafficLabel": "TRÁFICO DE PAGO",
+    "tabStrategyLabel": "EMBUBOS & CRO",
+    "subGroupPrimaryTitle": "PROGRAMAS PRINCIPALES",
+    "subGroupSecondaryTitle": "ESPECIALIZADOS DE ALTO IMPACTO"
+  },
+  "ctaBanner": {
+    "eyebrow": "PLAZAS LIMITADAS DE ONBOARDING ESTE MES",
+    "headline": "¿LISTO PARA ESCALAR TUS VENTAS POR WHATSAPP?",
+    "buttonLabel": "HABLAR CON NATALIA POR WHATSAPP",
+    "description": "Cuéntanos tu sector, facturación objetivo y presupuesto estimado. Evaluaremos tu potencial de crecimiento en una sesión 1 a 1 sin compromiso.",
+    "backgroundImage": "https://images.pexels.com/photos/17713789/pexels-photo-17713789.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "whatsappMessage": "¡Hola Natalia! Quiero revisar las plazas de este mes y agendar mi llamada de diagnóstico para mi empresa.",
+    "backgroundImageAlt": "Equipo de marketing en presentación estratégica de campañas"
+  },
+  "instagram": {
+    "posts": [
+      {
+        "id": "ig1",
+        "alt": "Grabación de consejos de marketing en vertical desde estudio",
+        "tag": "REELS",
+        "image": "https://images.pexels.com/photos/4910386/pexels-photo-4910386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": "ig2",
+        "alt": "Análisis matutino de retorno en campañas de pago",
+        "tag": "DATA",
+        "image": "https://images.pexels.com/photos/7873574/pexels-photo-7873574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": "ig3",
+        "alt": "Historia de crecimiento en tienda online cliente",
+        "tag": "E-COMMERCE",
+        "image": "https://images.pexels.com/photos/7857531/pexels-photo-7857531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": "ig4",
+        "alt": "Taller de planificación mensual con pizarra de embudo",
+        "tag": "EMBUDO",
+        "image": "https://images.pexels.com/photos/5439478/pexels-photo-5439478.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+      },
+      {
+        "id": "ig5",
+        "alt": "Mesa de edición creativa de anuncios en vídeo",
+        "tag": "EDICIÓN",
+        "image": "https://images.pexels.com/photos/11063289/pexels-photo-11063289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "id": "ig6",
+        "alt": "Sesión semanal de optimización del equipo creativo",
+        "tag": "EQUIPO",
+        "image": "https://images.pexels.com/photos/7495656/pexels-photo-7495656.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+      }
+    ],
+    "handle": "@nataliadantas.mkt",
+    "eyebrow": "@NATALIADANTAS.MKT",
+    "headline": "DETRÁS DE CÁMARAS Y CONSEJOS DIARIOS",
+    "buttonLabel": "",
+    "description": "Publicamos cada semana análisis de anuncios ganadores, guiones de Reels que venden y resultados reales de pymes."
+  },
+  "socialProof": {
+    "label": "IMPACTO COMPROBADO EN PYMES HISPANOHABLANTES",
+    "metrics": [
+      {
+        "id": "m1",
+        "label": "Pymes escaladas",
+        "value": "+140"
+      },
+      {
+        "id": "m2",
+        "label": "ROAS promedio",
+        "value": "5.8x"
+      },
+      {
+        "id": "m3",
+        "label": "Ventas atribuidas",
+        "value": "+2.4M€"
+      },
+      {
+        "id": "m4",
+        "label": "Retención mensual",
+        "value": "94%"
+      }
+    ]
+  },
+  "atelierCases": {
+    "cases": [
+      {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/7514831/pexels-photo-7514831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "client": "Clínica Estética Lumière",
+        "sector": "Salud & Estética · Madrid",
+        "caption": "De 18 a 57 citas mensuales pagadas combinando Reels educativos y Meta Ads local.",
+        "imageAlt": "Producción de vídeo vertical para campaña en redes de clínica estética",
+        "metricBadge": "+215% AGENDA MENSUAL",
+        "whatsappMessage": "¡Hola! Vi el caso de Clínica Lumière y me gustaría lograr resultados similares para mi negocio de servicios."
+      },
+      {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/7289719/pexels-photo-7289719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "client": "Nórdica Home Store",
+        "sector": "E-commerce Decoración · Valencia",
+        "caption": "Facturación mensual escalada de 9.000€ a 44.500€ con Google Shopping y Advantage+.",
+        "imageAlt": "Emprendedora preparando pedidos de tienda online con alto volumen de ventas",
+        "metricBadge": "ROAS 6.4x ESTABLE",
+        "whatsappMessage": "¡Hola! Tengo una tienda online y quiero conocer cómo escalaron a Nórdica Home Store a ROAS 6.4x."
+      },
+      {
+        "id": 3,
+        "image": "https://images.pexels.com/photos/7970815/pexels-photo-7970815.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "client": "Consultora Fiscal Ábaco",
+        "sector": "Servicios B2B · Barcelona",
+        "caption": "Captación de 95 empresas cualificadas al mes mediante Search Ads y embudo de diagnóstico.",
+        "imageAlt": "Panel estratégico de campaña B2B con métricas de conversión",
+        "metricBadge": "-42% COSTO POR LEAD",
+        "whatsappMessage": "¡Hola! Buscamos reducir nuestro costo por lead B2B como el caso de Consultora Ábaco."
+      },
+      {
+        "id": 4,
+        "image": "https://images.pexels.com/photos/13929769/pexels-photo-13929769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "client": "Grupo Gastronómico Brasa",
+        "sector": "Restauración & Reservas · Sevilla",
+        "caption": "Producción mensual de contenido corto y campañas georreferenciadas en 3 locales.",
+        "imageAlt": "Grabación de contenido vertical con trípode e iluminación en estudio",
+        "metricBadge": "100% OCUPACIÓN FINDE",
+        "whatsappMessage": "¡Hola! Quiero atraer clientes locales recurrentes a mi negocio físico con tráfico local."
+      }
+    ],
+    "eyebrow": "CASOS DE ÉXITO REALES",
+    "ctaLabel": "Quiero resultados así en mi empresa",
+    "dragHint": "ARRASTRA O HAZ CLIC EN LA TARJETA",
+    "headline": "Resultados verificados con negocios reales. Arrastra cada tarjeta para explorar cómo multiplicamos su facturación y sus clientes potenciales.",
+    "vignetteImage": "https://images.pexels.com/photos/12969403/pexels-photo-12969403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "vignetteTitle": "LABORATORIO ADS",
+    "vignetteImageAlt": "Panel de análisis en tiempo real con retorno de inversión publicitaria",
+    "vignetteSubtitle": "DATA & CREATIVIDAD DIARIA"
+  },
+  "testimonials": {
+    "items": [
+      {
+        "id": "t1",
+        "name": "Sofía Márquez",
+        "role": "Fundadora",
+        "quote": "Trabajar con Natalia marcó un antes y un después. En 60 días duplicamos las solicitudes reales por WhatsApp y mejoramos muchísimo la calidad de pacientes que preguntaban por nuestros tratamientos.",
+        "avatar": "https://images.pexels.com/photos/7173011/pexels-photo-7173011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "rating": 5,
+        "company": "Clínica Dermatológica Lumière",
+        "avatarAlt": "Sofía Márquez en su oficina revisando el calendario de pacientes",
+        "resultBadge": "Agenda llena a 3 semanas"
+      },
+      {
+        "id": "t2",
+        "name": "Alejandro Paredes",
+        "role": "CEO",
+        "quote": "Habíamos probado dos agencias sin ver retorno claro. El equipo de Natalia reorganizó nuestro catálogo en Meta y Google Shopping y multiplicamos por seis cada euro publicitado.",
+        "avatar": "https://images.pexels.com/photos/7289725/pexels-photo-7289725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "rating": 5,
+        "company": "Nórdica Home Store",
+        "avatarAlt": "Alejandro Paredes gestionando pedidos de tienda online",
+        "resultBadge": "+380% en ventas online"
+      },
+      {
+        "id": "t3",
+        "name": "Lucía Verdugo",
+        "role": "Socia Directora",
+        "quote": "Además de llevar nuestras campañas con rigor técnico, nos guían para grabar Reels claros que cierran reuniones antes siquiera de llegar a la llamada comercial.",
+        "avatar": "https://images.pexels.com/photos/6248957/pexels-photo-6248957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "rating": 5,
+        "company": "Consultora Fiscal Ábaco",
+        "avatarAlt": "Lucía Verdugo revisando informes financieros y gráficos de campaña",
+        "resultBadge": "-42% CPA B2B"
+      }
+    ],
+    "eyebrow": "VOCES DE NUESTROS CLIENTES",
+    "headline": "PYMES QUE TRANSFORMARON SU CANAL DIGITAL",
+    "subheadline": "Historias reales de empresarios que dejaron de depender del boca a boca y construyeron un flujo diario de clientes."
+  }
+}
